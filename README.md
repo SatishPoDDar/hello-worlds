@@ -1,2 +1,2 @@
 # hello-worlds
-just for experiments
+it's not just for experiments
